@@ -1,0 +1,2 @@
+# Qt_Muisc_Player
+这是一个qt音乐播放器基础项目，主要是为了学习qt的qml，之前一直学的是cpp的
