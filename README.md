@@ -1,5 +1,5 @@
 
-# 凭摆的音乐播放器 🎵
+# 凭据的音乐播放器 🎵
 
 一个基于 Qt 框架开发的桌面音乐播放器，兼具美观的二次元界面与实用的播放功能。
 
@@ -18,20 +18,20 @@
 
 ## 🛠️ 技术栈
 
-- **框架**：Qt (C++)
+- **框架**：Qt (C++)   - **框架**：Qt (C  )
 - **UI设计**：自定义QSS样式表，实现二次元风格界面
 - **音频播放**：Qt Multimedia 模块
 
 ## 🖼️ 界面预览
 
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/f47f5583-9bc7-4201-869b-67b93fa1ddcd" />
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/f47f5583-9bc7-4201-869b-67b93fa1ddcd" /><img width   宽度="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/f47f5583-9bc7-4201-869b-67b93fa1ddcd" />
 
 
 
 ## 🚀 快速开始
 
 ### 环境要求
-- Qt 5.15+ 或 Qt 6.2+
+- Qt 5.15+ 或 Qt 6.2+- Qt 5.15或Qt 6.2
 - C++11 编译器
 - 支持的操作系统：Windows 
 
